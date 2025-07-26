@@ -1,3 +1,4 @@
+'''gradle
 import org.springframework.util.SimpleIdGenerator
 
 plugins {
